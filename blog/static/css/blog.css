@@ -194,7 +194,7 @@ header {
 
 
 
-@media only screen and (min-width: 800px) {
+@media screen and (min-width: 800px) {
   .grid-wrapper {
     display: -ms-grid;
     display: grid;
@@ -224,7 +224,7 @@ header {
 
 }
 
-@media only screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .grid-wrapper {
     display: -ms-grid;
     display: grid;
